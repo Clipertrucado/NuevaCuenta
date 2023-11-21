@@ -1,0 +1,15 @@
+C:\Users\Trabajo\programacion-workspace\CajeroMenuC\obj\Release\net6.0\CajeroMenuC.csproj.AssemblyReference.cache
+C:\Users\Trabajo\programacion-workspace\CajeroMenuC\obj\Release\net6.0\CajeroMenuC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trabajo\programacion-workspace\CajeroMenuC\obj\Release\net6.0\CajeroMenuC.AssemblyInfoInputs.cache
+C:\Users\Trabajo\programacion-workspace\CajeroMenuC\obj\Release\net6.0\CajeroMenuC.AssemblyInfo.cs
+C:\Users\Trabajo\programacion-workspace\CajeroMenuC\obj\Release\net6.0\CajeroMenuC.csproj.CoreCompileInputs.cache
+C:\Users\Trabajo\programacion-workspace\CajeroMenuC\bin\Release\net6.0\CajeroMenuC.exe
+C:\Users\Trabajo\programacion-workspace\CajeroMenuC\bin\Release\net6.0\CajeroMenuC.deps.json
+C:\Users\Trabajo\programacion-workspace\CajeroMenuC\bin\Release\net6.0\CajeroMenuC.runtimeconfig.json
+C:\Users\Trabajo\programacion-workspace\CajeroMenuC\bin\Release\net6.0\CajeroMenuC.dll
+C:\Users\Trabajo\programacion-workspace\CajeroMenuC\bin\Release\net6.0\CajeroMenuC.pdb
+C:\Users\Trabajo\programacion-workspace\CajeroMenuC\obj\Release\net6.0\CajeroMenuC.dll
+C:\Users\Trabajo\programacion-workspace\CajeroMenuC\obj\Release\net6.0\refint\CajeroMenuC.dll
+C:\Users\Trabajo\programacion-workspace\CajeroMenuC\obj\Release\net6.0\CajeroMenuC.pdb
+C:\Users\Trabajo\programacion-workspace\CajeroMenuC\obj\Release\net6.0\CajeroMenuC.genruntimeconfig.cache
+C:\Users\Trabajo\programacion-workspace\CajeroMenuC\obj\Release\net6.0\ref\CajeroMenuC.dll
